@@ -18,7 +18,7 @@ El contenido del libro hasta el día de hoy consta de 6 capitulos, los cuales so
 
 -Creacion de funciones
 
--Factores, Listas y Data frames
+-Factores, Listas y Dataframe
 
 
 El desarrollo del manual se realizo en el sistema de composición de textos LaTeX, el cúal tambien se encuentra en esta carpeta como archivo PDF
