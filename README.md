@@ -20,5 +20,7 @@ El contenido del libro hasta el día de hoy consta de 6 capitulos, los cuales so
 
 -Factores, Listas y Dataframe
 
+-Graficos Avanzados
+
 
 El desarrollo del manual se realizo en el sistema de composición de textos LaTeX, el cúal tambien se encuentra en esta carpeta como archivo PDF
